@@ -4,5 +4,4 @@
 * HTML
 * CSS
 * JS
-* Bootstrap
 * PHP
